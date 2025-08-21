@@ -1,0 +1,2293 @@
+[
+  {
+    "id": 1,
+    "business_type": "retail",
+    "input_text": "I want a mobile app for food delivery",
+    "clarity_score": 0.73,
+    "budget": 18012,
+    "timeline_weeks": 5,
+    "platform": "mobile",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 18012,
+    "estimated_timeline": 5
+  },
+  {
+    "id": 2,
+    "business_type": "restaurant",
+    "input_text": "I want to improve my business processes",
+    "clarity_score": 0.32,
+    "budget": 9911,
+    "timeline_weeks": 8,
+    "platform": "mobile",
+    "suggested_features": [
+      "menu management",
+      "online ordering",
+      "delivery tracking",
+      "reservations"
+    ],
+    "tech_stack": [
+      "Flutter",
+      "Firebase",
+      "Google Maps API"
+    ],
+    "estimated_cost": 9911,
+    "estimated_timeline": 8
+  },
+  {
+    "id": 3,
+    "business_type": "consulting",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.73,
+    "budget": 8428,
+    "timeline_weeks": 4,
+    "platform": "desktop",
+    "suggested_features": [
+      "project management",
+      "time tracking",
+      "client billing",
+      "report generation"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "Node.js"
+    ],
+    "estimated_cost": 8428,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 4,
+    "business_type": "logistics",
+    "input_text": "I want a mobile app for food delivery",
+    "clarity_score": 0.82,
+    "budget": 31477,
+    "timeline_weeks": 9,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 31477,
+    "estimated_timeline": 9
+  },
+  {
+    "id": 5,
+    "business_type": "consulting",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.81,
+    "budget": 15566,
+    "timeline_weeks": 3,
+    "platform": "desktop",
+    "suggested_features": [
+      "project management",
+      "time tracking",
+      "client billing",
+      "report generation"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "Node.js"
+    ],
+    "estimated_cost": 15566,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 6,
+    "business_type": "consulting",
+    "input_text": "I need a system for my business",
+    "clarity_score": 0.41,
+    "budget": 12046,
+    "timeline_weeks": 2,
+    "platform": "desktop",
+    "suggested_features": [
+      "project management",
+      "time tracking",
+      "client billing",
+      "report generation"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "Node.js"
+    ],
+    "estimated_cost": 12046,
+    "estimated_timeline": 2
+  },
+  {
+    "id": 7,
+    "business_type": "logistics",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 0.93,
+    "budget": 20708,
+    "timeline_weeks": 6,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 20708,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 8,
+    "business_type": "real_estate",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 0.85,
+    "budget": 12752,
+    "timeline_weeks": 4,
+    "platform": "web",
+    "suggested_features": [
+      "property listings",
+      "search filters",
+      "virtual tours",
+      "contact forms"
+    ],
+    "tech_stack": [
+      "Next.js",
+      "Django",
+      "PostgreSQL",
+      "AWS S3"
+    ],
+    "estimated_cost": 12752,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 9,
+    "business_type": "finance",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.91,
+    "budget": 77521,
+    "timeline_weeks": 7,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 77521,
+    "estimated_timeline": 7
+  },
+  {
+    "id": 10,
+    "business_type": "finance",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 1.0,
+    "budget": 44538,
+    "timeline_weeks": 7,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 44538,
+    "estimated_timeline": 7
+  },
+  {
+    "id": 11,
+    "business_type": "education",
+    "input_text": "I need a logistics tracking system",
+    "clarity_score": 0.86,
+    "budget": 19510,
+    "timeline_weeks": 8,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 19510,
+    "estimated_timeline": 8
+  },
+  {
+    "id": 12,
+    "business_type": "logistics",
+    "input_text": "I want to digitize my operations",
+    "clarity_score": 0.39,
+    "budget": 43807,
+    "timeline_weeks": 4,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 43807,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 13,
+    "business_type": "real_estate",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 0.75,
+    "budget": 23714,
+    "timeline_weeks": 6,
+    "platform": "web",
+    "suggested_features": [
+      "property listings",
+      "search filters",
+      "virtual tours",
+      "contact forms"
+    ],
+    "tech_stack": [
+      "Next.js",
+      "Django",
+      "PostgreSQL",
+      "AWS S3"
+    ],
+    "estimated_cost": 23714,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 14,
+    "business_type": "finance",
+    "input_text": "I want a desktop app for project management",
+    "clarity_score": 0.77,
+    "budget": 60200,
+    "timeline_weeks": 11,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 60200,
+    "estimated_timeline": 11
+  },
+  {
+    "id": 15,
+    "business_type": "logistics",
+    "input_text": "I need a patient management system for my clinic",
+    "clarity_score": 0.97,
+    "budget": 30391,
+    "timeline_weeks": 8,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 30391,
+    "estimated_timeline": 8
+  },
+  {
+    "id": 16,
+    "business_type": "education",
+    "input_text": "I need a logistics tracking system",
+    "clarity_score": 0.97,
+    "budget": 11818,
+    "timeline_weeks": 3,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 11818,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 17,
+    "business_type": "retail",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 0.87,
+    "budget": 20356,
+    "timeline_weeks": 2,
+    "platform": "web",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 20356,
+    "estimated_timeline": 2
+  },
+  {
+    "id": 18,
+    "business_type": "education",
+    "input_text": "I need a patient management system for my clinic",
+    "clarity_score": 0.71,
+    "budget": 18841,
+    "timeline_weeks": 7,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 18841,
+    "estimated_timeline": 7
+  },
+  {
+    "id": 19,
+    "business_type": "logistics",
+    "input_text": "I need a patient management system for my clinic",
+    "clarity_score": 0.96,
+    "budget": 42801,
+    "timeline_weeks": 4,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 42801,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 20,
+    "business_type": "finance",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 0.83,
+    "budget": 28920,
+    "timeline_weeks": 9,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 28920,
+    "estimated_timeline": 9
+  },
+  {
+    "id": 21,
+    "business_type": "consulting",
+    "input_text": "I want to digitize my operations",
+    "clarity_score": 0.39,
+    "budget": 21104,
+    "timeline_weeks": 3,
+    "platform": "desktop",
+    "suggested_features": [
+      "project management",
+      "time tracking",
+      "client billing",
+      "report generation"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "Node.js"
+    ],
+    "estimated_cost": 21104,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 22,
+    "business_type": "restaurant",
+    "input_text": "I need a logistics tracking system",
+    "clarity_score": 0.83,
+    "budget": 16180,
+    "timeline_weeks": 4,
+    "platform": "mobile",
+    "suggested_features": [
+      "menu management",
+      "online ordering",
+      "delivery tracking",
+      "reservations"
+    ],
+    "tech_stack": [
+      "Flutter",
+      "Firebase",
+      "Google Maps API"
+
+    ],
+    "estimated_cost": 16180,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 23,
+    "business_type": "restaurant",
+    "input_text": "I need a software solution",
+    "clarity_score": 0.57,
+    "budget": 29486,
+    "timeline_weeks": 8,
+    "platform": "mobile",
+    "suggested_features": [
+      "menu management",
+      "online ordering",
+      "delivery tracking",
+      "reservations"
+    ],
+    "tech_stack": [
+      "Flutter",
+      "Firebase",
+      "Google Maps API"
+    ],
+    "estimated_cost": 29486,
+    "estimated_timeline": 8
+  },
+  {
+    "id": 24,
+    "business_type": "consulting",
+    "input_text": "I need a logistics tracking system",
+    "clarity_score": 0.91,
+    "budget": 24396,
+    "timeline_weeks": 4,
+    "platform": "desktop",
+    "suggested_features": [
+      "project management",
+      "time tracking",
+      "client billing",
+      "report generation"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "Node.js"
+    ],
+    "estimated_cost": 24396,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 25,
+    "business_type": "retail",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 0.95,
+    "budget": 24238,
+    "timeline_weeks": 3,
+    "platform": "web",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 24238,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 26,
+    "business_type": "logistics",
+    "input_text": "I want to improve my business processes",
+    "clarity_score": 0.56,
+    "budget": 21689,
+    "timeline_weeks": 5,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 21689,
+    "estimated_timeline": 5
+  },
+  {
+    "id": 27,
+    "business_type": "finance",
+    "input_text": "I want a mobile app for food delivery",
+    "clarity_score": 0.94,
+    "budget": 56970,
+    "timeline_weeks": 9,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 56970,
+    "estimated_timeline": 9
+  },
+  {
+    "id": 28,
+    "business_type": "education",
+    "input_text": "I want a desktop app for project management",
+    "clarity_score": 0.86,
+    "budget": 30872,
+    "timeline_weeks": 6,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 30872,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 29,
+    "business_type": "logistics",
+    "input_text": "I need help with my business management",
+    "clarity_score": 0.41,
+    "budget": 20381,
+    "timeline_weeks": 9,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 20381,
+    "estimated_timeline": 9
+  },
+  {
+    "id": 30,
+    "business_type": "logistics",
+    "input_text": "I need a patient management system for my clinic",
+    "clarity_score": 0.95,
+    "budget": 36024,
+    "timeline_weeks": 6,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 36024,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 31,
+    "business_type": "retail",
+    "input_text": "I want a desktop app for project management",
+    "clarity_score": 0.9,
+    "budget": 12924,
+    "timeline_weeks": 6,
+    "platform": "desktop",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 12924,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 32,
+    "business_type": "finance",
+    "input_text": "I need a logistics tracking system",
+    "clarity_score": 0.79,
+    "budget": 71268,
+    "timeline_weeks": 15,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 71268,
+    "estimated_timeline": 15
+  },
+  {
+    "id": 33,
+    "business_type": "finance",
+    "input_text": "I need a patient management system for my clinic",
+    "clarity_score": 0.73,
+    "budget": 65730,
+    "timeline_weeks": 11,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 65730,
+    "estimated_timeline": 11
+  },
+  {
+    "id": 34,
+    "business_type": "healthcare",
+    "input_text": "I need a patient management system for my clinic",
+    "clarity_score": 0.89,
+    "budget": 16213,
+    "timeline_weeks": 8,
+    "platform": "web",
+    "suggested_features": [
+      "patient management",
+      "appointment scheduling",
+      "medical records",
+      "billing"
+    ],
+    "tech_stack": [
+      "Angular",
+      "Django",
+      "PostgreSQL",
+      "HIPAA compliance"
+    ],
+    "estimated_cost": 16213,
+    "estimated_timeline": 8
+  },
+  {
+    "id": 35,
+    "business_type": "healthcare",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.97,
+    "budget": 21807,
+    "timeline_weeks": 10,
+    "platform": "web",
+    "suggested_features": [
+      "patient management",
+      "appointment scheduling",
+      "medical records",
+      "billing"
+    ],
+    "tech_stack": [
+      "Angular",
+      "Django",
+      "PostgreSQL",
+      "HIPAA compliance"
+    ],
+    "estimated_cost": 21807,
+    "estimated_timeline": 10
+  },
+  {
+    "id": 36,
+    "business_type": "healthcare",
+    "input_text": "I need a property listing website",
+    "clarity_score": 0.96,
+    "budget": 47362,
+    "timeline_weeks": 10,
+    "platform": "web",
+    "suggested_features": [
+      "patient management",
+      "appointment scheduling",
+      "medical records",
+      "billing"
+    ],
+    "tech_stack": [
+      "Angular",
+      "Django",
+      "PostgreSQL",
+      "HIPAA compliance"
+    ],
+    "estimated_cost": 47362,
+    "estimated_timeline": 10
+  },
+  {
+    "id": 37,
+    "business_type": "retail",
+    "input_text": "I want to digitize my operations",
+    "clarity_score": 0.25,
+    "budget": 7215,
+    "timeline_weeks": 3,
+    "platform": "web",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 7215,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 38,
+    "business_type": "real_estate",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 0.93,
+    "budget": 16886,
+    "timeline_weeks": 7,
+    "platform": "web",
+    "suggested_features": [
+      "property listings",
+      "search filters",
+      "virtual tours",
+      "contact forms"
+    ],
+    "tech_stack": [
+      "Next.js",
+      "Django",
+      "PostgreSQL",
+      "AWS S3"
+    ],
+    "estimated_cost": 16886,
+    "estimated_timeline": 7
+  },
+  {
+    "id": 39,
+    "business_type": "real_estate",
+    "input_text": "I want to improve my business processes",
+    "clarity_score": 0.32,
+    "budget": 12987,
+    "timeline_weeks": 3,
+    "platform": "web",
+    "suggested_features": [
+      "property listings",
+      "search filters",
+      "virtual tours",
+      "contact forms"
+    ],
+    "tech_stack": [
+      "Next.js",
+      "Django",
+      "PostgreSQL",
+      "AWS S3"
+    ],
+    "estimated_cost": 12987,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 40,
+    "business_type": "restaurant",
+    "input_text": "I need a system for my business",
+    "clarity_score": 0.28,
+    "budget": 27286,
+    "timeline_weeks": 3,
+    "platform": "mobile",
+    "suggested_features": [
+      "menu management",
+      "online ordering",
+      "delivery tracking",
+      "reservations"
+    ],
+    "tech_stack": [
+      "Flutter",
+      "Firebase",
+      "Google Maps API"
+    ],
+    "estimated_cost": 27286,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 41,
+    "business_type": "retail",
+    "input_text": "I need a logistics tracking system",
+    "clarity_score": 0.96,
+    "budget": 10211,
+    "timeline_weeks": 6,
+    "platform": "web",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 10211,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 42,
+    "business_type": "retail",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 0.79,
+    "budget": 13838,
+    "timeline_weeks": 5,
+    "platform": "web",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 13838,
+    "estimated_timeline": 5
+  },
+  {
+    "id": 43,
+    "business_type": "logistics",
+    "input_text": "I want to modernize my business",
+    "clarity_score": 0.42,
+    "budget": 45869,
+    "timeline_weeks": 11,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 45869,
+    "estimated_timeline": 11
+  },
+  {
+    "id": 44,
+    "business_type": "education",
+    "input_text": "I want to streamline my operations",
+    "clarity_score": 0.32,
+    "budget": 38364,
+    "timeline_weeks": 7,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 38364,
+    "estimated_timeline": 7
+  },
+  {
+    "id": 45,
+    "business_type": "logistics",
+    "input_text": "I need a logistics tracking system",
+    "clarity_score": 0.81,
+    "budget": 54220,
+    "timeline_weeks": 6,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 54220,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 46,
+    "business_type": "logistics",
+    "input_text": "I want a mobile app for food delivery",
+    "clarity_score": 0.94,
+    "budget": 34097,
+    "timeline_weeks": 6,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 34097,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 47,
+    "business_type": "healthcare",
+    "input_text": "I need a logistics tracking system",
+    "clarity_score": 0.72,
+    "budget": 35225,
+    "timeline_weeks": 8,
+    "platform": "web",
+    "suggested_features": [
+      "patient management",
+      "appointment scheduling",
+      "medical records",
+      "billing"
+    ],
+    "tech_stack": [
+      "Angular",
+      "Django",
+      "PostgreSQL",
+      "HIPAA compliance"
+    ],
+    "estimated_cost": 35225,
+    "estimated_timeline": 8
+  },
+  {
+    "id": 48,
+    "business_type": "retail",
+    "input_text": "I need a property listing website",
+    "clarity_score": 0.75,
+    "budget": 12289,
+    "timeline_weeks": 3,
+    "platform": "web",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 12289,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 49,
+    "business_type": "finance",
+    "input_text": "I need a property listing website",
+    "clarity_score": 0.83,
+    "budget": 64633,
+    "timeline_weeks": 11,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 64633,
+    "estimated_timeline": 11
+  },
+  {
+    "id": 50,
+    "business_type": "education",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 0.88,
+    "budget": 29042,
+    "timeline_weeks": 7,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 29042,
+    "estimated_timeline": 7
+  },
+  {
+    "id": 51,
+    "business_type": "restaurant",
+    "input_text": "I need a property listing website",
+    "clarity_score": 0.75,
+    "budget": 19864,
+    "timeline_weeks": 4,
+    "platform": "mobile",
+    "suggested_features": [
+      "menu management",
+      "online ordering",
+      "delivery tracking",
+      "reservations"
+    ],
+    "tech_stack": [
+      "Flutter",
+      "Firebase",
+      "Google Maps API"
+    ],
+    "estimated_cost": 19864,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 52,
+    "business_type": "consulting",
+    "input_text": "I need a property listing website",
+    "clarity_score": 0.79,
+    "budget": 19317,
+    "timeline_weeks": 4,
+    "platform": "desktop",
+    "suggested_features": [
+      "project management",
+      "time tracking",
+      "client billing",
+      "report generation"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "Node.js"
+    ],
+    "estimated_cost": 19317,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 53,
+    "business_type": "education",
+    "input_text": "I need a property listing website",
+    "clarity_score": 0.74,
+    "budget": 11965,
+    "timeline_weeks": 8,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 11965,
+    "estimated_timeline": 8
+  },
+  {
+    "id": 54,
+    "business_type": "real_estate",
+    "input_text": "I need a patient management system for my clinic",
+    "clarity_score": 0.75,
+    "budget": 28239,
+    "timeline_weeks": 6,
+    "platform": "web",
+    "suggested_features": [
+      "property listings",
+      "search filters",
+      "virtual tours",
+      "contact forms"
+    ],
+    "tech_stack": [
+      "Next.js",
+      "Django",
+      "PostgreSQL",
+      "AWS S3"
+    ],
+    "estimated_cost": 28239,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 55,
+    "business_type": "real_estate",
+    "input_text": "I need a property listing website",
+    "clarity_score": 0.89,
+    "budget": 28607,
+    "timeline_weeks": 5,
+    "platform": "web",
+    "suggested_features": [
+      "property listings",
+      "search filters",
+      "virtual tours",
+      "contact forms"
+    ],
+    "tech_stack": [
+      "Next.js",
+      "Django",
+      "PostgreSQL",
+      "AWS S3"
+    ],
+    "estimated_cost": 28607,
+    "estimated_timeline": 5
+  },
+  {
+    "id": 56,
+    "business_type": "real_estate",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.83,
+    "budget": 24186,
+    "timeline_weeks": 5,
+    "platform": "web",
+    "suggested_features": [
+      "property listings",
+      "search filters",
+      "virtual tours",
+      "contact forms"
+    ],
+    "tech_stack": [
+      "Next.js",
+      "Django",
+      "PostgreSQL",
+      "AWS S3"
+    ],
+    "estimated_cost": 24186,
+    "estimated_timeline": 5
+  },
+  {
+    "id": 57,
+    "business_type": "finance",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 0.92,
+    "budget": 27518,
+    "timeline_weeks": 13,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 27518,
+    "estimated_timeline": 13
+  },
+  {
+    "id": 58,
+    "business_type": "consulting",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.9,
+    "budget": 11744,
+    "timeline_weeks": 2,
+    "platform": "desktop",
+    "suggested_features": [
+      "project management",
+      "time tracking",
+      "client billing",
+      "report generation"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "Node.js"
+    ],
+    "estimated_cost": 11744,
+    "estimated_timeline": 2
+  },
+  {
+    "id": 59,
+    "business_type": "real_estate",
+    "input_text": "I want a desktop app for project management",
+    "clarity_score": 0.88,
+    "budget": 29360,
+    "timeline_weeks": 3,
+    "platform": "web",
+    "suggested_features": [
+      "property listings",
+      "search filters",
+      "virtual tours",
+      "contact forms"
+    ],
+    "tech_stack": [
+      "Next.js",
+      "Django",
+      "PostgreSQL",
+      "AWS S3"
+    ],
+    "estimated_cost": 29360,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 60,
+    "business_type": "logistics",
+    "input_text": "I need a patient management system for my clinic",
+    "clarity_score": 0.81,
+    "budget": 40971,
+    "timeline_weeks": 8,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 40971,
+    "estimated_timeline": 8
+  },
+  {
+    "id": 61,
+    "business_type": "education",
+    "input_text": "I need a logistics tracking system",
+    "clarity_score": 0.79,
+    "budget": 36834,
+    "timeline_weeks": 3,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 36834,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 62,
+    "business_type": "consulting",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.82,
+    "budget": 20458,
+    "timeline_weeks": 3,
+    "platform": "desktop",
+    "suggested_features": [
+      "project management",
+      "time tracking",
+      "client billing",
+      "report generation"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "Node.js"
+    ],
+    "estimated_cost": 20458,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 63,
+    "business_type": "retail",
+    "input_text": "I need an online store to sell my products",
+    "clarity_score": 0.95,
+    "budget": 20975,
+    "timeline_weeks": 4,
+    "platform": "web",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 20975,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 64,
+    "business_type": "finance",
+    "input_text": "I need an online store to sell my products",
+    "clarity_score": 0.92,
+    "budget": 31977,
+    "timeline_weeks": 15,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 31977,
+    "estimated_timeline": 15
+  },
+  {
+    "id": 65,
+    "business_type": "logistics",
+    "input_text": "I need a logistics tracking system",
+    "clarity_score": 0.87,
+    "budget": 27497,
+    "timeline_weeks": 4,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 27497,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 66,
+    "business_type": "healthcare",
+    "input_text": "I want to digitize my operations",
+    "clarity_score": 0.38,
+    "budget": 31199,
+    "timeline_weeks": 10,
+    "platform": "web",
+    "suggested_features": [
+      "patient management",
+      "appointment scheduling",
+      "medical records",
+      "billing"
+    ],
+    "tech_stack": [
+      "Angular",
+      "Django",
+      "PostgreSQL",
+      "HIPAA compliance"
+    ],
+    "estimated_cost": 31199,
+    "estimated_timeline": 10
+  },
+  {
+    "id": 67,
+    "business_type": "retail",
+    "input_text": "I need an online store to sell my products",
+    "clarity_score": 0.92,
+    "budget": 21926,
+    "timeline_weeks": 6,
+    "platform": "web",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 21926,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 68,
+    "business_type": "finance",
+    "input_text": "I need a property listing website",
+    "clarity_score": 0.97,
+    "budget": 41201,
+    "timeline_weeks": 14,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 41201,
+    "estimated_timeline": 14
+  },
+  {
+    "id": 69,
+    "business_type": "restaurant",
+    "input_text": "I need a software solution",
+    "clarity_score": 0.21,
+    "budget": 18921,
+    "timeline_weeks": 8,
+    "platform": "mobile",
+    "suggested_features": [
+      "menu management",
+      "online ordering",
+      "delivery tracking",
+      "reservations"
+    ],
+    "tech_stack": [
+      "Flutter",
+      "Firebase",
+      "Google Maps API"
+    ],
+    "estimated_cost": 18921,
+    "estimated_timeline": 8
+  },
+  {
+    "id": 70,
+    "business_type": "education",
+    "input_text": "I want to modernize my business",
+    "clarity_score": 0.36,
+    "budget": 32994,
+    "timeline_weeks": 8,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 32994,
+    "estimated_timeline": 8
+  },
+  {
+    "id": 71,
+    "business_type": "restaurant",
+    "input_text": "I want a mobile app for food delivery",
+    "clarity_score": 0.88,
+    "budget": 9551,
+    "timeline_weeks": 7,
+    "platform": "mobile",
+    "suggested_features": [
+      "menu management",
+      "online ordering",
+      "delivery tracking",
+      "reservations"
+    ],
+    "tech_stack": [
+      "Flutter",
+      "Firebase",
+      "Google Maps API"
+    ],
+    "estimated_cost": 9551,
+    "estimated_timeline": 7
+  },
+  {
+    "id": 72,
+    "business_type": "finance",
+    "input_text": "I need a property listing website",
+    "clarity_score": 0.88,
+    "budget": 39674,
+    "timeline_weeks": 15,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 39674,
+    "estimated_timeline": 15
+  },
+  {
+    "id": 73,
+    "business_type": "consulting",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.96,
+    "budget": 23187,
+    "timeline_weeks": 3,
+    "platform": "desktop",
+    "suggested_features": [
+      "project management",
+      "time tracking",
+      "client billing",
+      "report generation"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "Node.js"
+    ],
+    "estimated_cost": 23187,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 74,
+    "business_type": "logistics",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.76,
+    "budget": 23097,
+    "timeline_weeks": 4,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 23097,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 75,
+    "business_type": "retail",
+    "input_text": "I want a desktop app for project management",
+    "clarity_score": 0.95,
+    "budget": 7903,
+    "timeline_weeks": 2,
+    "platform": "web",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 7903,
+    "estimated_timeline": 2
+  },
+  {
+    "id": 76,
+    "business_type": "retail",
+    "input_text": "I need something to help manage my business",
+    "clarity_score": 0.53,
+    "budget": 18011,
+    "timeline_weeks": 5,
+    "platform": "web",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 18011,
+    "estimated_timeline": 5
+  },
+  {
+    "id": 77,
+    "business_type": "healthcare",
+    "input_text": "I need a patient management system for my clinic",
+    "clarity_score": 0.92,
+    "budget": 48197,
+    "timeline_weeks": 8,
+    "platform": "web",
+    "suggested_features": [
+      "patient management",
+      "appointment scheduling",
+      "medical records",
+      "billing"
+    ],
+    "tech_stack": [
+      "Angular",
+      "Django",
+      "PostgreSQL",
+      "HIPAA compliance"
+    ],
+    "estimated_cost": 48197,
+    "estimated_timeline": 8
+  },
+  {
+    "id": 78,
+    "business_type": "consulting",
+    "input_text": "I need a patient management system for my clinic",
+    "clarity_score": 0.99,
+    "budget": 14294,
+    "timeline_weeks": 4,
+    "platform": "desktop",
+    "suggested_features": [
+      "project management",
+      "time tracking",
+      "client billing",
+      "report generation"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "Node.js"
+    ],
+    "estimated_cost": 14294,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 79,
+    "business_type": "logistics",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 0.87,
+    "budget": 39901,
+    "timeline_weeks": 9,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 39901,
+    "estimated_timeline": 9
+  },
+  {
+    "id": 80,
+    "business_type": "education",
+    "input_text": "I want a banking app for my customers",
+    "clarity_score": 0.89,
+    "budget": 37624,
+    "timeline_weeks": 4,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 37624,
+    "estimated_timeline": 4
+  },
+  {
+    "id": 81,
+    "business_type": "education",
+    "input_text": "I want to modernize my business",
+    "clarity_score": 0.43,
+    "budget": 32452,
+    "timeline_weeks": 5,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 32452,
+    "estimated_timeline": 5
+  },
+  {
+    "id": 82,
+    "business_type": "healthcare",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.97,
+    "budget": 49697,
+    "timeline_weeks": 9,
+    "platform": "web",
+    "suggested_features": [
+      "patient management",
+      "appointment scheduling",
+      "medical records",
+      "billing"
+    ],
+    "tech_stack": [
+      "Angular",
+      "Django",
+      "PostgreSQL",
+      "HIPAA compliance"
+    ],
+    "estimated_cost": 49697,
+    "estimated_timeline": 9
+  },
+  {
+    "id": 83,
+    "business_type": "education",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.7,
+    "budget": 12665,
+    "timeline_weeks": 6,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 12665,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 84,
+    "business_type": "education",
+    "input_text": "I want to digitize my operations",
+    "clarity_score": 0.25,
+    "budget": 32583,
+    "timeline_weeks": 6,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 32583,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 85,
+    "business_type": "healthcare",
+    "input_text": "I want to modernize my business",
+    "clarity_score": 0.35,
+    "budget": 36814,
+    "timeline_weeks": 9,
+    "platform": "web",
+    "suggested_features": [
+      "patient management",
+      "appointment scheduling",
+      "medical records",
+      "billing"
+    ],
+    "tech_stack": [
+      "Angular",
+      "Django",
+      "PostgreSQL",
+      "HIPAA compliance"
+    ],
+    "estimated_cost": 36814,
+    "estimated_timeline": 9
+  },
+  {
+    "id": 86,
+    "business_type": "education",
+    "input_text": "I need something to help manage my business",
+    "clarity_score": 0.34,
+    "budget": 22247,
+    "timeline_weeks": 6,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 22247,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 87,
+    "business_type": "finance",
+    "input_text": "I need a software solution",
+    "clarity_score": 0.33,
+    "budget": 62192,
+    "timeline_weeks": 15,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 62192,
+    "estimated_timeline": 15
+  },
+  {
+    "id": 88,
+    "business_type": "healthcare",
+    "input_text": "I need a property listing website",
+    "clarity_score": 0.83,
+    "budget": 20340,
+    "timeline_weeks": 9,
+    "platform": "web",
+    "suggested_features": [
+      "patient management",
+      "appointment scheduling",
+      "medical records",
+      "billing"
+    ],
+    "tech_stack": [
+      "Angular",
+      "Django",
+      "PostgreSQL",
+      "HIPAA compliance"
+    ],
+    "estimated_cost": 20340,
+    "estimated_timeline": 9
+  },
+  {
+    "id": 89,
+    "business_type": "healthcare",
+    "input_text": "I want to improve my business processes",
+    "clarity_score": 0.53,
+    "budget": 19445,
+    "timeline_weeks": 5,
+    "platform": "web",
+    "suggested_features": [
+      "patient management",
+      "appointment scheduling",
+      "medical records",
+      "billing"
+    ],
+    "tech_stack": [
+      "Angular",
+      "Django",
+      "PostgreSQL",
+      "HIPAA compliance"
+    ],
+    "estimated_cost": 19445,
+    "estimated_timeline": 5
+  },
+  {
+    "id": 90,
+    "business_type": "consulting",
+    "input_text": "I need an online store to sell my products",
+    "clarity_score": 0.78,
+    "budget": 14847,
+    "timeline_weeks": 2,
+    "platform": "desktop",
+    "suggested_features": [
+      "project management",
+      "time tracking",
+      "client billing",
+      "report generation"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "Node.js"
+    ],
+    "estimated_cost": 14847,
+    "estimated_timeline": 2
+  },
+  {
+    "id": 91,
+    "business_type": "restaurant",
+    "input_text": "I want a mobile app for food delivery",
+    "clarity_score": 0.73,
+    "budget": 24957,
+    "timeline_weeks": 5,
+    "platform": "mobile",
+    "suggested_features": [
+      "menu management",
+      "online ordering",
+      "delivery tracking",
+      "reservations"
+    ],
+    "tech_stack": [
+      "Flutter",
+      "Firebase",
+      "Google Maps API"
+    ],
+    "estimated_cost": 24957,
+    "estimated_timeline": 5
+  },
+  {
+    "id": 92,
+    "business_type": "finance",
+    "input_text": "I want a desktop app for project management",
+    "clarity_score": 0.73,
+    "budget": 69071,
+    "timeline_weeks": 7,
+    "platform": "web",
+    "suggested_features": [
+      "account management",
+      "transaction history",
+      "budget tracking",
+      "financial reports"
+    ],
+    "tech_stack": [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "estimated_cost": 69071,
+    "estimated_timeline": 7
+  },
+  {
+    "id": 93,
+    "business_type": "restaurant",
+    "input_text": "I want a desktop app for project management",
+    "clarity_score": 0.95,
+    "budget": 10337,
+    "timeline_weeks": 7,
+    "platform": "mobile",
+    "suggested_features": [
+      "menu management",
+      "online ordering",
+      "delivery tracking",
+      "reservations"
+    ],
+    "tech_stack": [
+      "Flutter",
+      "Firebase",
+      "Google Maps API"
+    ],
+    "estimated_cost": 10337,
+    "estimated_timeline": 7
+  },
+  {
+    "id": 94,
+    "business_type": "healthcare",
+    "input_text": "I need a patient management system for my clinic",
+    "clarity_score": 0.78,
+    "budget": 47855,
+    "timeline_weeks": 7,
+    "platform": "web",
+    "suggested_features": [
+      "patient management",
+      "appointment scheduling",
+      "medical records",
+      "billing"
+    ],
+    "tech_stack": [
+      "Angular",
+      "Django",
+      "PostgreSQL",
+      "HIPAA compliance"
+    ],
+    "estimated_cost": 47855,
+    "estimated_timeline": 7
+  },
+  {
+    "id": 95,
+    "business_type": "consulting",
+    "input_text": "I want to modernize my business",
+    "clarity_score": 0.4,
+    "budget": 19666,
+    "timeline_weeks": 3,
+    "platform": "desktop",
+    "suggested_features": [
+      "project management",
+      "time tracking",
+      "client billing",
+      "report generation"
+    ],
+    "tech_stack": [
+      "Electron",
+      "React",
+      "SQLite",
+      "Node.js"
+    ],
+    "estimated_cost": 19666,
+    "estimated_timeline": 3
+  },
+  {
+    "id": 96,
+    "business_type": "retail",
+    "input_text": "I want to digitize my operations",
+    "clarity_score": 0.48,
+    "budget": 7945,
+    "timeline_weeks": 5,
+    "platform": "web",
+    "suggested_features": [
+      "inventory management",
+      "payment processing",
+      "order tracking",
+      "customer accounts"
+    ],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Stripe"
+    ],
+    "estimated_cost": 7945,
+    "estimated_timeline": 5
+  },
+  {
+    "id": 97,
+    "business_type": "real_estate",
+    "input_text": "I need a property listing website",
+    "clarity_score": 0.73,
+    "budget": 29224,
+    "timeline_weeks": 6,
+    "platform": "web",
+    "suggested_features": [
+      "property listings",
+      "search filters",
+      "virtual tours",
+      "contact forms"
+    ],
+    "tech_stack": [
+      "Next.js",
+      "Django",
+      "PostgreSQL",
+      "AWS S3"
+    ],
+    "estimated_cost": 29224,
+    "estimated_timeline": 6
+  },
+  {
+    "id": 98,
+    "business_type": "education",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.78,
+    "budget": 18035,
+    "timeline_weeks": 5,
+    "platform": "web",
+    "suggested_features": [
+      "course management",
+      "student portal",
+      "progress tracking",
+      "video streaming"
+    ],
+    "tech_stack": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS"
+    ],
+    "estimated_cost": 18035,
+    "estimated_timeline": 5
+  },
+  {
+    "id": 99,
+    "business_type": "restaurant",
+    "input_text": "I want an e-learning platform for my courses",
+    "clarity_score": 0.75,
+    "budget": 20666,
+    "timeline_weeks": 7,
+    "platform": "mobile",
+    "suggested_features": [
+      "menu management",
+      "online ordering",
+      "delivery tracking",
+      "reservations"
+    ],
+    "tech_stack": [
+      "Flutter",
+      "Firebase",
+      "Google Maps API"
+    ],
+    "estimated_cost": 20666,
+    "estimated_timeline": 7
+  },
+  {
+    "id": 100,
+    "business_type": "logistics",
+    "input_text": "I want a mobile app for food delivery",
+    "clarity_score": 0.82,
+    "budget": 59930,
+    "timeline_weeks": 4,
+    "platform": "mobile",
+    "suggested_features": [
+      "route optimization",
+      "real-time tracking",
+      "inventory management",
+      "driver app"
+    ],
+    "tech_stack": [
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Google Maps"
+    ],
+    "estimated_cost": 59930,
+    "estimated_timeline": 4
+  }
+]

@@ -1,0 +1,99 @@
+{
+  "input_analysis": {
+    "original_text": "i want a real time fitness and health trackin app",
+    "processed_text": "i want a real time fitness and health trackin app",
+    "clarity_score": 1.0,
+    "business_type": [
+      "healthcare",
+      0.12
+    ],
+    "platform_preference": [
+      "mobile",
+      0.14
+    ],
+    "detected_features": [],
+    "sentiment": {
+      "polarity": 0.2,
+      "subjectivity": 0.3
+    },
+    "urgency_level": "low",
+    "budget_indicators": {
+      "budget_mentioned": false,
+      "budget_amounts": [],
+      "has_budget_info": false
+    },
+    "timeline_indicators": {
+      "timeline_mentioned": true,
+      "time_indicators": [],
+      "has_timeline_info": false
+    },
+    "portability": "high",
+    "notification_requirement": "none"
+  },
+  "needs_clarification": true,
+  "clarification_questions": [
+    "What type of business do you operate?",
+    "What specific features or functionality do you need?",
+    "Do you have a budget range in mind for this project?"
+  ],
+  "platform_recommendation": {
+    "platform": "mobile",
+    "confidence": 0.95,
+    "reasoning": "Mobile recommended due to high portability requirement"
+  },
+  "feature_recommendations": [
+    {
+      "feature": "patient_management",
+      "description": "Comprehensive patient information management",
+      "priority": "medium",
+      "estimated_effort": 5,
+      "estimated_cost": 1745
+    },
+    {
+      "feature": "appointment_scheduling",
+      "description": "Automated appointment booking and scheduling",
+      "priority": "medium",
+      "estimated_effort": 5,
+      "estimated_cost": 4919
+    },
+    {
+      "feature": "medical_records",
+      "description": "Secure electronic health records management",
+      "priority": "medium",
+      "estimated_effort": 4,
+      "estimated_cost": 1852
+    }
+  ],
+  "tech_stack_recommendation": {
+    "tech_stack": "react_native",
+    "name": "React Native + Node.js",
+    "description": "JavaScript-based mobile development",
+    "pros": [
+      "Cross-platform",
+      "Large community",
+      "Reusable code"
+    ],
+    "cons": [
+      "Performance issues",
+      "Native dependencies"
+    ],
+    "cost_factor": 0.9,
+    "timeline_factor": 1.1,
+    "confidence": 0.95
+  },
+  "cost_estimate": {
+    "base_cost": 15000,
+    "feature_cost": 8516,
+    "total_cost": 21164.4,
+    "cost_range": "$16931.52 - $25397.28",
+    "currency": "USD"
+  },
+  "timeline_estimate": {
+    "base_timeline": 12,
+    "feature_timeline": 14,
+    "total_timeline": 28.6,
+    "timeline_range": "22.9 - 34.3 weeks",
+    "unit": "weeks"
+  },
+  "confidence_score": 0.59
+}
