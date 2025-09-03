@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI-Based Recommendation System for Client Clearance
 
 ## Overview
