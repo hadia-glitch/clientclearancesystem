@@ -44,8 +44,20 @@ python main.py
 - pandas for data handling
 - numpy for numerical operations
 
-## License
-MIT License 
-=======
-# clientclearancesystem
->>>>>>> 9ccece4fd4a008a71d31823cc3af96a34f2d6aa8
+- ## 1.	Get recommendation:
+
+
+  <img width="828" height="486" alt="image" src="https://github.com/user-attachments/assets/8c22eb07-eb04-4f9d-881c-54f0bd4c06b1" />
+  <img width="940" height="536" alt="image" src="https://github.com/user-attachments/assets/daba5941-ce57-4a6f-923d-193446a1e85f" />
+  <img width="940" height="462" alt="image" src="https://github.com/user-attachments/assets/9bc49867-75ce-4853-93ed-423380ed5067" />
+  <img width="940" height="85" alt="image" src="https://github.com/user-attachments/assets/036c6d0b-f319-4ead-a5ab-5417e0a91c05" />
+
+  ## 2.	Dataset information processing
+  <img width="748" height="635" alt="image" src="https://github.com/user-attachments/assets/a00976ea-17b4-4000-9417-1d1180e11fcd" />
+
+
+
+
+
+
+
